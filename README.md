@@ -1,6 +1,6 @@
 # Checklists
-Checklists
 
-### Front-End
-[The Front-End Checklist] (https://frontendchecklist.io/)
+
+## Front-End
+[The Front-End Checklist](https://frontendchecklist.io/)
 
